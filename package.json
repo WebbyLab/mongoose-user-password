@@ -7,7 +7,7 @@
     "name": "webbylab",
     "url": "http://webbylab.com"
   },
-  "main": "./index.js",
+  "main": "./lib/index.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:WebbyLab/mongoose-user-password.git"
