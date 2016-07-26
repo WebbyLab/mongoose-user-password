@@ -1,0 +1,18 @@
+{
+  "name": "mongoose-user-password",
+  "version": "0.0.1",
+  "homepage": "https://github.com/WebbyLab/mongoose-user-password",
+  "description": "Eslint plugin that we use in webbylab",
+  "author": {
+    "name": "webbylab",
+    "url": "http://webbylab.com"
+  },
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:WebbyLab/mongoose-user-password.git"
+  },
+  "dependencies": {
+    "crypto": "0.0.3"
+  }
+}
