@@ -2,10 +2,6 @@
 
 Simple plugin for Mongoose which adds passwordHash and salt fields to the scheme;
 
-## Installation
-
-`npm install mongoose-timestamp --save`
-
 ## Usage
 
 ```javascript
